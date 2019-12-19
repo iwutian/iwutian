@@ -3,7 +3,7 @@
   <title>Hexo</title>
   <icon>https://iwutian.github.io/icon.png</icon>
   
-  <link href="/iwutian/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="https://iwutian.github.io/"/>
   <updated>2019-12-19T04:30:15.108Z</updated>
