@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://iwutian.github.io/iwutian/"/>
-  <updated>2020-08-14T01:35:38.344Z</updated>
+  <updated>2020-08-16T14:22:34.787Z</updated>
   <id>https://iwutian.github.io/iwutian/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://iwutian.github.io/iwutian/2019/12/19/hello-world/"/>
     <id>https://iwutian.github.io/iwutian/2019/12/19/hello-world/</id>
     <published>2019-12-19T04:30:15.108Z</published>
-    <updated>2020-08-14T01:35:38.344Z</updated>
+    <updated>2020-08-16T14:22:34.787Z</updated>
     
     <summary type="html">
     
@@ -30,6 +30,14 @@
     </summary>
     
     
+      <category term="helloworld" scheme="https://iwutian.github.io/iwutian/categories/helloworld/"/>
+    
+    
+      <category term="helloworld" scheme="https://iwutian.github.io/iwutian/tags/helloworld/"/>
+    
+      <category term="blog" scheme="https://iwutian.github.io/iwutian/tags/blog/"/>
+    
+      <category term="hexo" scheme="https://iwutian.github.io/iwutian/tags/hexo/"/>
     
   </entry>
   
